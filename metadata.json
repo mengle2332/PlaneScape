@@ -1,0 +1,5 @@
+{
+  "name": "PlaneScape",
+  "description": "AI-powered modular D&D top-down map generator. Author: Parker Engle. Assisted generation and coding via: google gemini 3",
+  "requestFramePermissions": []
+}
